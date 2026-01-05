@@ -1,7 +1,7 @@
 EXTM3U
 #EXTINF:-1 tvg-id="ArenaSport3.ba",Jugoton TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
-#EXTINF:-1 tvg-id="B1TV.ba",N1 Srbija
+#EXTINF:-1 tvg-id="N1INFO.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
@@ -9,30 +9,22 @@ https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BNTV.ba",BN TV (480p)
 https://stream.rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="Kanal6.ba",Kanal 6 (288p)
-https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1 tvg-id="",Pink Srbija
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba",Narodna TV
+#EXTINF:-1 tvg-id="Pink.rs",Narodna TV
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:-1 tvg-id="RTRSplus.ba",RTS 1
+#EXTINF:-1 tvg-id="RTS.RS",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-id="RTVGlasDrine.ba",RTV Glas Drine (404p) [Not 24/7]
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica (720p)
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="SevdahTV.ba",Sevdah TV (288p)
-https://restreamer2.tnt.ba/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ba",Super TV Media (720p)
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 (576p)
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="TNTKidsTV.ba",TNT Kids (288p)
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="HRT1.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
@@ -46,14 +38,8 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="Klasik.hr",Klasik TV (576p) [Not 24/7]
-#EXTINF:-1 https://178.253.194.105/klasiktv/playlist.m3u8
-#tvg-id="DMSat.rs" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Srbija",DM Sat (720p)
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Srbija",DM Sat (720p)
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8 [web:100][web:268]
-#EXTINF:-1 tvg-id="OTV.hr",OTV (720p) [Not 24/7]
-https://stream.agatin.hr:3559/live/otvlive.m3u8
-#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr",Radio Televizija Banovina (1080p) [Not 24/7]
-https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="RTLCroatiaWorld.hr",RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
@@ -72,8 +58,6 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 #EXTINF:-1 tvg-id="TelevizijaTV7.me",Televizija TV7 (360p)
 http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevizijaTV7.me",Televizija TV7 (360p)
-https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTeuta.me",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:-1 tvg-id="TVCG1.me",TVCG 1 (720p) [Not 24/7]
@@ -87,5 +71,5 @@ http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
-
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+
