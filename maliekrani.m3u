@@ -33,15 +33,15 @@ https://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:-1 tvg-id="HRT2.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTINF:-1 tvg-id="HRT3.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT Int (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/manifest.mpd?DVR
 #EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-id="RTLCroatiaWorld.hr",RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr",FTV (1080p)
+https://webtvstream.bhtelecom.ba/hls6/ftv.mpd?n=browsernullJAGLEDAMcom
 #EXTINF:-1 tvg-id="SBTV.hr",SBTV (1080p) [Not 24/7]
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="STV.hr",STV (720p)
@@ -62,14 +62,15 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w1093095935.m3u8
 #EXTINF:-1 tvg-id="RTV.rs",RTV 2 (720p) [Not 24/7]
 http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG3.me",TVCG 3 (720p) [Not 24/7]
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me",OTV(720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/hls10/otv_valentino.mpd?n=browsernullJAGLEDAMcom
 #EXTINF:-1 tvg-id="TVCGMNE.me",KURIR TV (720p) [Not 24/7]
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me",RTVTK(720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/hls16/rtv_tk.mpd?n=browsernullJAGLEDAMcom
 #EXTINF:-1 tvg-id="DUGA SAT.TV",TV DUGA (720p) [Not 24/7]
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
+
 
 
 
