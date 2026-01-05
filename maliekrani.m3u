@@ -38,8 +38,6 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Srbija",DM Sat (720p)
-https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8 [web:100][web:268]
 #EXTINF:-1 tvg-id="RTLCroatiaWorld.hr",RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
@@ -48,8 +46,8 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="STV.hr",STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="TrendTV.hr",Trend TV (480p)
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="dmsat.tv",DMSAT (480p)
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-id="TVJadran.hr",TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNova.hr",TV Nova (720p)
@@ -72,4 +70,5 @@ http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+
 
