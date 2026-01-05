@@ -58,18 +58,19 @@ http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTeuta.me",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-id="TVCG1.me",TVCG 1 (720p) [Not 24/7]
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG2.me",TVCG 2 (720p) [Not 24/7]
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.rs",RTV 1 1 (720p) [Not 24/7]
+http://212.200.230.50:1935/RTV/rtv1/chunklist_w1093095935.m3u8
+#EXTINF:-1 tvg-id="RTV.rs",RTV 2 (720p) [Not 24/7]
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me",TVCG 3 (720p) [Not 24/7]
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DUGA SAT.TV",TV DUGA (720p) [Not 24/7]
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
+
 
 
 
