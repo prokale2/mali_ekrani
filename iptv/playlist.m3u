@@ -1,0 +1,90 @@
+EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport3.ba",Arena Sport 3 BA (1080p)
+http://94.250.2.6:7374/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="B1TV.ba",B1 TV (1080p) [Not 24/7]
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba",BHRT (270p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BNTV.ba",BN TV (480p)
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="Kanal6.ba",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="",Malta (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba",María+Visión Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba",RTRS Plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba",RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba",RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="SevdahTV.ba",Sevdah TV (288p)
+https://restreamer2.tnt.ba/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba",Super TV Media (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="Klasik.hr",Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="OTV.hr",OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="RTLCroatiaWorld.hr",RTL Croatia (1080p)
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTV.hr",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="STV.hr",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr",TV Zapad (1080p) [Not 24/7]
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+#EXTINF:-1 tvg-id="TelevizijaTV7.me",Televizija TV7 (360p)
+http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevizijaTV7.me",Televizija TV7 (360p)
+https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTeuta.me",TV Teuta (720p)
+https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVCG1.me",TVCG 1 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2.me",TVCG 2 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me",TVCG 3 (720p) [Not 24/7]
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me",TVCG MNE (720p) [Not 24/7]
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
