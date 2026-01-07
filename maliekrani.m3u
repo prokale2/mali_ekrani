@@ -5,8 +5,8 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (270p) [Geo-blocked]
-https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="n1.ba",N1 BiH (270p)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BNTV.ba",BN TV (480p)
 https://stream.rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="",Pink Srbija
@@ -17,6 +17,8 @@ https://edge8.pink.rs/narodnatv/index.m3u8
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me",RTS SVET
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica (720p)
@@ -27,12 +29,10 @@ https://mirtv.club/live/mirtv/index.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="atv.ba",ATV BL
+https://vpn.komtel.ba/hls/mylivestream.m3u8
+#EXTINF:-1 tvg-id="pink.rs",RED TV
+https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT Int (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/manifest.mpd?DVR
@@ -40,8 +40,8 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/manifest.mpd?DVR
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-id="RTLCroatiaWorld.hr",RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr",FTV (1080p)
-https://webtvstream.bhtelecom.ba/hls6/ftv.mpd?n=browsernullJAGLEDAMcom
+#EXTINF:-1 tvg-id="RTLKockica.hr",Bravo TV (1080p)
+https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 #EXTINF:-1 tvg-id="SBTV.hr",SBTV (1080p) [Not 24/7]
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="STV.hr",STV (720p)
@@ -52,24 +52,31 @@ https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNova.hr",TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="TVZapad.hr",TV Zapad (1080p) [Not 24/7]
-http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="TelevizijaTV7.me",Televizija TV7 (360p)
-http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTeuta.me",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:-1 tvg-id="RTV.rs",RTV 1 1 (720p) [Not 24/7]
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w1093095935.m3u8
 #EXTINF:-1 tvg-id="RTV.rs",RTV 2 (720p) [Not 24/7]
 http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG3.me",OTV(720p) [Not 24/7]
-https://webtvstream.bhtelecom.ba/hls10/otv_valentino.mpd?n=browsernullJAGLEDAMcom
 #EXTINF:-1 tvg-id="TVCGMNE.me",KURIR TV (720p) [Not 24/7]
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me",RTVTK(720p) [Not 24/7]
-https://webtvstream.bhtelecom.ba/hls16/rtv_tk.mpd?n=browsernullJAGLEDAMcom
+#EXTINF:-1 tvg-id="TVCGMNE.me",RTS Trezor(720p) [Not 24/7]
+http://client.nodomain.vip:80/IgorDunjic/517HCwG2OD/1497
 #EXTINF:-1 tvg-id="DUGA SAT.TV",TV DUGA (720p) [Not 24/7]
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
+#EXTINF:0 group-title="RS",РТС 1
+http://46.240.143.86:8065/rts1
+#EXTINF:0 group-title="RS",РТС 2
+http://46.240.143.86:8065/rts2
+#EXTINF:0 group-title="RS",РТС 3
+http://46.240.143.86:8065/rts3
+#EXTINF:0 group-title="RS",PINK
+http://46.240.143.86:8065/pink
+#EXTINF:0 group-title="RS",PRVA
+http://46.240.143.86:8065/prva
+#EXTINF:0 group-title="RS",HAPPY
+http://46.240.143.86:8065/happy
+
 
 
 
