@@ -3,19 +3,19 @@ EXTM3U
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1INFO.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BHT1" tvg-name="Tv" tvg-logo="https://tvprofil.com/img/kanali-logo/BHT1_BA_logo.png?1734709920"; group-title="BOSNA",BHT1
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="n1.ba",N1 BiH (270p)
+#EXTINF:-1 tvg-id="N1" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 Bh
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-id="BNTV.ba",BN TV (480p)
+#EXTINF:-1 tvg-id="BN" tvg-name="TV" tvg-logo="https://tvprofil.com/img/kanali-logo/bn_televizija_zemaljski.jpg"; group-title="BOSNA",BN TV
 https://stream.rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="",Pink Srbija
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-id="Pink.rs",Narodna TV
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:-1 tvg-id="RTS.RS",RTS 1
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png"; group-title="Srbija",Rts 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba",RTS 2
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png"; group-title="Srbija",Rts 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me",RTS SVET
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
@@ -23,15 +23,15 @@ https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 http://5.57.74.130:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/RTL2-logo.png"; group-title="Hrvatska",Rtl 2
 http://5.57.74.130:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTVHB.ba",RTV Herceg-Bosne (576p) 
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica (720p)
+#EXTINF:-1 tvg-id="RTVZenica.ba",RTV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ba",Super TV Media (720p)
+#EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
 https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 (576p)
+#EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
+#EXTINF:-1 tvg-id="CMC" tvg-name="Tv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CMC_TV_logo.png"; group-title="MUZICKI",Cmc Tv
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="atv.ba",ATV BL
 https://vpn.komtel.ba/hls/mylivestream.m3u8
@@ -45,13 +45,13 @@ http://5.57.74.130:8000/play/a02f/index.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-id="PRVAPLUS" tvg-name="Tv" tvg-logo="http://live.nettv.pro/icons/prvaplus.png"; group-title="Srbija",Prva Plus
 http://5.57.74.130:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr",Bravo TV (1080p)
+#EXTINF:0 CUID="BRAVO" tvg-name="" tvg-logo="https://logo.iptveditor.com/bravo.png"; group-title="MUZICKI",bravo!
 https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 #EXTINF:-1 tvg-id="SBTV.hr",SBTV (1080p) [Not 24/7]
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="STV.hr",STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="dmsat.tv",DMSAT (480p)
+#EXTINF:-1 tvg-id="DMSAT" tvg-name="" tvg-logo="http://live.nettv.pro/icons/MUZICKI/dmsat.png"; group-title="MUZICKI",Dm Sat
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-id="TVJadran.hr",TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
@@ -67,13 +67,13 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me",RTS Trezor(720p) [Not 24/7]
 http://client.nodomain.vip:80/IgorDunjic/517HCwG2OD/1497
-#EXTINF:-1 tvg-id="DUGA SAT.TV",TV DUGA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DUGA" tvg-name="TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png"; group-title="MUZICKI",Duga Tv 
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
-#EXTINF:0 group-title="RS",РТС 1
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png"; group-title="Srbija",Rts 1
 http://46.240.143.86:8065/rts1
-#EXTINF:0 group-title="RS",РТС 2
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png"; group-title="Srbija",Rts 2
 http://46.240.143.86:8065/rts2
-#EXTINF:0 group-title="RS",РТС 3
+#EXTINF:-1 tvg-id="rts3" tvg-name="RTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/2560px-RTS_3_logo.svg.png"; group-title="Srbija",Rts 3
 http://46.240.143.86:8065/rts3
 #EXTINF:0 group-title="RS",PINK
 http://46.240.143.86:8065/pink
@@ -81,6 +81,7 @@ http://46.240.143.86:8065/pink
 http://46.240.143.86:8065/prva
 #EXTINF:0 group-title="RS",HAPPY
 http://46.240.143.86:8065/happy
+
 
 
 
