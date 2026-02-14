@@ -1,5 +1,5 @@
 EXTM3U
-#EXTINF:-1 tvg-id="Jugoton.rs" tvg-name="jugoton-tv.music" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Jugoton_TV_HR_logo.png?1736875598"; group-title="MUZICKI",Jugoton TV
+#EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="jugoton-tv.music" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Jugoton_TV_HR_logo.png?1736875598"; group-title="MUZICKI",Jugoton TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
@@ -15,13 +15,13 @@ https://edge8.pink.rs/pinktv/index.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="OBN.rs" tvg-name="obn.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",OBN
 http://23.88.66.93/OBN/index.m3u8
-#EXTINF:-1 tvg-id="RTVTK.rs" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
+#EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
 http://srv1.adriatelekom.com/RTVTK/mono.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
 http://srv1.adriatelekom.com/RTSZivot/mono.m3u8
-#EXTINF:-1 tvg-id="RTL.rs" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
 http://23.88.66.93/RTL_Televizija/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.rs" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png"; group-title="Hrvatska",Hrt 1
 http://23.88.66.93/HRT_1/index.m3u8
@@ -43,21 +43,21 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://vpn.komtel.ba/hls/mylivestream.m3u8
 #EXTINF:-1 tvg-id="RedTV.rs",RED TV
 https://edge8.pink.rs/redtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
+#EXTINF:-1 tvg-id="KlapeiTambure.hr",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="nova.hr" tvg-name="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.png"; group-title="Hrvatska",NOVA HD
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.png"; group-title="Hrvatska",NOVA HD
 http://23.88.66.93/NOVA_HD/index.m3u8
-#EXTINF:0 CUID="BRAVO" tvg-name="" tvg-logo="https://logo.iptveditor.com/bravo.png"; group-title="MUZICKI",bravo!
+#EXTINF:0 CUID="bravoTV.hr" tvg-name="" tvg-logo="https://logo.iptveditor.com/bravo.png"; group-title="MUZICKI",bravo!
 https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 #EXTINF:-1 tvg-id="RTRS.bh" tvg-name="RTRS" tvg-logo="https://tvprofil.com/img/kanali-logo/rtrs-logo.png"; group-title="BOSNA",Rtrs
 http://23.88.66.93/RTRS/index.m3u8
-#EXTINF:-1 tvg-id="tvcg1.cg" tvg-name="tvcg1.cg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/RTCG1_logo_%282012%29.svg/revision/latest/scale-to-width-down/150?cb=20220615121412"; group-title="CRNA GORA" ,Rtcg 1
+#EXTINF:-1 tvg-id="RTCG1.me" tvg-name="tvcg1.cg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/RTCG1_logo_%282012%29.svg/revision/latest/scale-to-width-down/150?cb=20220615121412"; group-title="CRNA GORA" ,Rtcg 1
 http://23.88.66.93/RTCG_1/index.m3u8
 #EXTINF:-1 tvg-id="DMSAT.bh" tvg-name="" tvg-logo="http://live.nettv.pro/icons/MUZICKI/dmsat.png"; group-title="MUZICKI",Dm Sat
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-id="NovaBH.bh" tvg-name="NovaBH.bh" tvg-logo="http://live.nettv.pro/icons/NOVATV.png"; group-title="Bosna",Nova BH
 http://23.88.66.93/NOVA_BH/index.m3u8
-#EXTINF:-1 tvg-id="NovaM.bh" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/NOVATV.png"; group-title="Crna Gora",Nova M
+#EXTINF:-1 tvg-id="NovaM.me" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/NOVATV.png"; group-title="Crna Gora",Nova M
 http://srv1.adriatelekom.com/NovaM/mono.m3u8
 #EXTINF:-1 tvg-id="NOVAS.rs",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
@@ -85,8 +85,9 @@ http://46.240.143.86:8065/prva
 http://46.240.143.86:8065/happy
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://i.postimg.cc/J4sWvfJ9/b92.png"; group-title="Srbija",B92
 http://185.81.240.65:15000/udp/233.233.233.28:12000
-#EXTINF:-1 tvg-id="rtv-slon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
+#EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
 http://srv1.adriatelekom.com/TVSlon/mono.m3u8
+
 
 
 
