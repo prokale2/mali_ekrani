@@ -29,18 +29,18 @@ http://23.88.66.93/HRT_1/index.m3u8
 http://23.88.66.93/HRT_2/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.bh" tvg-name="HTV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnrV--gn9fkgy_f_ZUZAHGlB_NrmlCD5x2w&s"; group-title="Hrvatska",Hrt 3
 http://23.88.66.93/HRT_3/index.m3u8
-#EXTINF:-1 tvg-id="HRTInt.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
+#EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
 https://srv1.adriatelekom.com/HRTInt/mono.m3u8
 #EXTINF:-1 tvg-id="Palma.rs",Palma Plus
 http://srv1.adriatelekom.com/PalmaPlus/mono.m3u8
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
-https://mirtv.club/live/mirtv/index.m3u8
+https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="CMC.rs" tvg-name="Tv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CMC_TV_logo.png"; group-title="MUZICKI",Cmc Tv
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="atv.ba" tvg-name="atv.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/ATV_BA_logo_v2.png?1736322806"; group-title="BOSNA",ATV BL
-https://vpn.komtel.ba/hls/mylivestream.m3u8
+#EXTINF:-1 tvg-id="Hayat.bh" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/Hayat_TV_BA_logo.png?1736255484"; group-title="BOSNA",HAYAT TV
+http://23.88.66.93/HAYAT/index.m3u8
 #EXTINF:-1 tvg-id="RedTV.rs",RED TV
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlapeiTambure.hr",Klape i Tambure TV (1080p)
@@ -87,6 +87,7 @@ http://46.240.143.86:8065/happy
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 #EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
 http://srv1.adriatelekom.com/TVSlon/mono.m3u8
+
 
 
 
