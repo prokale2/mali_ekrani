@@ -9,6 +9,8 @@ https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:0 CUID="BN2.rs" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_2_HD_BA_logo_v2.png?1737532576"; group-title="BOSNA",BN2
+http://51.83.135.95/BN2/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png"; group-title="Srbija",Narodna TV
@@ -47,8 +49,6 @@ https://edge8.pink.rs/redtv/playlist.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="nova.hr" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.png"; group-title="Hrvatska",NOVA HD
 http://23.88.66.93/NOVA_HD/index.m3u8
-#EXTINF:0 CUID="bravoTV.hr" tvg-name="" tvg-logo="https://logo.iptveditor.com/bravo.png"; group-title="MUZICKI",bravo!
-https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 #EXTINF:-1 tvg-id="RTRS.bh" tvg-name="RTRS" tvg-logo="https://tvprofil.com/img/kanali-logo/rtrs-logo.png"; group-title="BOSNA",Rtrs
 http://srv1.adriatelekom.com/RTRS/mono.m3u8
 #EXTINF:-1 tvg-id="RTCG1.me" tvg-name="tvcg1.cg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/RTCG1_logo_%282012%29.svg/revision/latest/scale-to-width-down/150?cb=20220615121412"; group-title="CRNA GORA" ,Rtcg 1
