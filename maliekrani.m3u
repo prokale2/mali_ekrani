@@ -9,7 +9,7 @@ https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:0 CUID="BN2.rs" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_2_HD_BA_logo_v2.png?1737532576"; group-title="BOSNA",BN2
+#EXTINF:0 CUID="BN2.bh" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_2_HD_BA_logo_v2.png?1737532576"; group-title="BOSNA",BN2
 http://51.83.135.95/BN2/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
 https://edge8.pink.rs/pinktv/index.m3u8
