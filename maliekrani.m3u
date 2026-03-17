@@ -63,8 +63,8 @@ http://srv1.adriatelekom.com/NovaM/mono.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:-1 tvg-id="RTV1.rs" tvg-name="vojvodina-1.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RT_Vojvodina_1_RS_logo.jpg?1737529409"; group-title="Srbija",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w1093095935.m3u8
-#EXTINF:-1 tvg-id="RTV2",RTV 2 (720p) 
-http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="Una.rs" tvg-name="Una.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/UNA_TV_logo.png?1737534211"; group-title="Srbija",Una TV
+http://51.83.135.95/UnaTV/index.m3u8
 #EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="KURIR" tvg-logo="https://tvprofil.com/img/kanali-logo/Kurir_TV_RS_logo.png?1737531087"; group-title="Srbija",KURIR
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTSTrezor.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_RS_logo.png"; group-title="Srbija",Rts TREZOR
@@ -78,12 +78,12 @@ http://23.88.66.93/RTS_2/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
 http://23.88.66.93/RTS_3/index.m3u8
 #EXTINF:0 group-title="RS",PINK
-http://46.240.143.86:8065/pink
-#EXTINF:-1 tvg-id="Prva.rs",Prva
-http://46.240.143.86:8065/prva
+http://51.83.135.95/Pink/index.m3u8
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
+http://51.83.135.95/Prva/index.m3u8
 #EXTINF:-1 tvg-id="HappyTV.rs",Happy
-http://46.240.143.86:8065/happy
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://i.postimg.cc/J4sWvfJ9/b92.png"; group-title="Srbija",B92
+http://51.83.135.95/Happy/index.m3u8
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 #EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
 http://srv1.adriatelekom.com/TVSlon/mono.m3u8
