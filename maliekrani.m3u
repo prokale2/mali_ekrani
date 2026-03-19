@@ -33,8 +33,8 @@ http://23.88.66.93/HRT_2/index.m3u8
 http://23.88.66.93/HRT_3/index.m3u8
 #EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
 https://srv1.adriatelekom.com/HRTInt/mono.m3u8
-#EXTINF:-1 tvg-id="Palma.rs",Palma Plus
-http://srv1.adriatelekom.com/PalmaPlus/mono.m3u8
+#EXTINF:-1 tvg-id="RTSNauka.rs" tvg-name="RTSNauka.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_RS_logo.png"; group-title="Srbija",Rts Nauka
+http://51.83.135.95/RTSNauka/index.m3u8
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
