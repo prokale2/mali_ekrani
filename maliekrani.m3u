@@ -61,8 +61,8 @@ http://23.88.66.93/NOVA_BH/index.m3u8
 http://srv1.adriatelekom.com/NovaM/mono.m3u8
 #EXTINF:-1 tvg-id="NOVAS.rs",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="vojvodina-1.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RT_Vojvodina_1_RS_logo.jpg?1737529409"; group-title="Srbija",RTV 1
-http://212.200.230.50:1935/RTV/rtv1/chunklist_w1093095935.m3u8
+#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="BlicTV.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/BlicTV.rs.png"; group-title="Srbija",Blic TV
+http://51.83.135.95/BlicTV/index.m3u8
 #EXTINF:-1 tvg-id="UNATV.rs" tvg-name="UNATV.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/UNA_TV_logo.png?1737534211"; group-title="Srbija",Una TV
 http://51.83.135.95/UnaTV/index.m3u8
 #EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="KURIR" tvg-logo="https://tvprofil.com/img/kanali-logo/Kurir_TV_RS_logo.png?1737531087"; group-title="Srbija",KURIR
