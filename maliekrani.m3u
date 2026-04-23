@@ -20,7 +20,7 @@ http://23.88.66.93/OBN/index.m3u8
 #EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
 http://srv1.adriatelekom.com/RTVTK/mono.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
-https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+https://srv1.adriatelekom.com/RTSSvet/mono.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
 http://srv1.adriatelekom.com/RTSZivot/mono.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
@@ -80,7 +80,7 @@ http://23.88.66.93/RTS_3/index.m3u8
 #EXTINF:0 group-title="RS",PINK
 http://51.83.135.95/Pink/index.m3u8
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
-http://51.83.135.95/Prva/index.m3u8
+http://23.88.66.93/Prva_TV/index.m3u8
 #EXTINF:-1 tvg-id="HappyTV.rs",Happy
 http://51.83.135.95/Happy/index.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
