@@ -9,8 +9,6 @@ https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:0 CUID="BN2.bh" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_2_HD_BA_logo_v2.png?1737532576"; group-title="BOSNA",BN2
-http://51.83.135.95/BN2/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png"; group-title="Srbija",Narodna TV
@@ -33,8 +31,6 @@ http://23.88.66.93/HRT_2/index.m3u8
 http://23.88.66.93/HRT_3/index.m3u8
 #EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
 https://srv1.adriatelekom.com/HRTInt/mono.m3u8
-#EXTINF:-1 tvg-id="RTSNauka.rs" tvg-name="RTSNauka.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_RS_logo.png"; group-title="Srbija",Rts Nauka
-http://51.83.135.95/RTSNauka/index.m3u8
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
@@ -61,10 +57,6 @@ http://23.88.66.93/NOVA_BH/index.m3u8
 http://srv1.adriatelekom.com/NovaM/mono.m3u8
 #EXTINF:-1 tvg-id="NOVAS.rs",Nova S
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="BlicTV.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/BlicTV.rs.png"; group-title="Srbija",Blic TV
-http://51.83.135.95/BlicTV/index.m3u8
-#EXTINF:-1 tvg-id="UNATV.rs" tvg-name="UNATV.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/UNA_TV_logo.png?1737534211"; group-title="Srbija",Una TV
-http://51.83.135.95/UnaTV/index.m3u8
 #EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="KURIR" tvg-logo="https://tvprofil.com/img/kanali-logo/Kurir_TV_RS_logo.png?1737531087"; group-title="Srbija",KURIR
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTSTrezor.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_RS_logo.png"; group-title="Srbija",Rts TREZOR
