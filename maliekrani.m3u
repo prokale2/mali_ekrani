@@ -4,7 +4,7 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHT1.hr" tvg-name="BHT1" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/BHT1_BA_logo.png"; group-title="BOSNA",BHT1
-https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+https://de1.dstv.cx/BHT1/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-id="n1.info" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
