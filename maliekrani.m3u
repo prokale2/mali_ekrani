@@ -4,7 +4,7 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHT1.hr" tvg-name="BHT1" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/BHT1_BA_logo.png"; group-title="BOSNA",BHT1
-https://de1.dstv.cx/BHT1/tracks-v1/index.m3u8
+https://de1.dstv.cx/BHT1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="n1.info" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
@@ -20,7 +20,7 @@ http://srv1.adriatelekom.com/RTVTK/mono.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
 https://srv1.adriatelekom.com/RTSSvet/mono.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
-http://srv1.adriatelekom.com/RTSZivot/mono.m3u8
+https://de1.dstv.cx/RTSZivot/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
 http://23.88.66.93/RTL_Televizija/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.rs" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png"; group-title="Hrvatska",Hrt 1
