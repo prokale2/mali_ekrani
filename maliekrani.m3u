@@ -18,7 +18,7 @@ http://23.88.66.93/OBN/index.m3u8
 #EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
 http://srv1.adriatelekom.com/RTVTK/mono.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
-https://srv1.adriatelekom.com/RTSSvet/mono.m3u8
+https://de1.dstv.cx/RTSSvet/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
 https://de1.dstv.cx/RTSZivot/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
@@ -60,7 +60,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTINF:-1 tvg-id="KurirTV.rs" tvg-name="KURIR" tvg-logo="https://tvprofil.com/img/kanali-logo/Kurir_TV_RS_logo.png?1737531087"; group-title="Srbija",KURIR
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTSTrezor.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_RS_logo.png"; group-title="Srbija",Rts TREZOR
-http://srv1.adriatelekom.com/RTSTrezor/mono.m3u8
+https://de1.dstv.cx/RTSTrezor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tv-duga-sat.music" tvg-name="tv-duga-sat.music" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png"; group-title="MUZICKI",Duga Tv 
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS1.rs.png"; group-title="Srbija",Rts 1
