@@ -4,7 +4,7 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHT1.hr" tvg-name="BHT1" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/BHT1_BA_logo.png"; group-title="BOSNA",BHT1
-https://de1.dstv.cx/BHT1/tracks-v1a1/mono.ts.m3u8
+http://185.81.240.65:15000/udp/233.233.233.23:12000
 #EXTINF:-1 tvg-id="n1.info" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
@@ -64,17 +64,17 @@ https://de1.dstv.cx/RTSTrezor/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tv-duga-sat.music" tvg-name="tv-duga-sat.music" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png"; group-title="MUZICKI",Duga Tv 
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS1.rs.png"; group-title="Srbija",Rts 1
-http://23.88.66.93/RTS_1/index.m3u8
+http://185.81.240.65:15000/udp/233.233.233.33:12000
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS2.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS2.rs.png"; group-title="Srbija",Rts 2
 http://23.88.66.93/RTS_2/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
-http://23.88.66.93/RTS_3/index.m3u8
+http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:0 group-title="RS",PINK
 http://51.83.135.95/Pink/index.m3u8
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
 http://23.88.66.93/Prva_TV/index.m3u8
-#EXTINF:-1 tvg-id="HappyTV.rs",Happy
-http://51.83.135.95/Happy/index.m3u8
+#EXTINF:-1 tvg-id="FTV.rs",FTV
+http://185.81.240.65:15000/udp/233.233.233.39:12000
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 #EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
