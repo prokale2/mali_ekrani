@@ -18,19 +18,19 @@ http://23.88.66.93/OBN/index.m3u8
 #EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
 http://srv1.adriatelekom.com/RTVTK/mono.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
-https://de1.dstv.cx/RTSSvet/tracks-v1a1/mono.ts.m3u8
+http://92.36.202.5:10001/play/a028
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
 https://de1.dstv.cx/RTSZivot/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
 http://23.88.66.93/RTL_Televizija/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.rs" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png"; group-title="Hrvatska",Hrt 1
-http://23.88.66.93/HRT_1/index.m3u8
+http://92.36.202.5:10001/play/a05g
 #EXTINF:-1 tvg-id="HRT2.rs" tvg-name="HTV2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/239c1863d4a52a75f23270d06046a1b2.png"; group-title="Hrvatska",Hrt 2
-http://23.88.66.93/HRT_2/index.m3u8
+http://92.36.202.5:10001/play/a05h
 #EXTINF:-1 tvg-id="HRT3.bh" tvg-name="HTV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnrV--gn9fkgy_f_ZUZAHGlB_NrmlCD5x2w&s"; group-title="Hrvatska",Hrt 3
-http://23.88.66.93/HRT_3/index.m3u8
+http://92.36.202.5:10003/play/a01z
 #EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
-https://srv1.adriatelekom.com/HRTInt/mono.m3u8
+http://92.36.202.5:10003/play/a021
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
@@ -70,11 +70,11 @@ https://de1.dstv.cx/RTS2HD/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:0 group-title="RS",PINK
-http://51.83.135.95/Pink/index.m3u8
+http://92.36.202.5:10003/play/a02j
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
 http://23.88.66.93/Prva_TV/index.m3u8
 #EXTINF:-1 tvg-id="FTV.rs",FTV
-http://185.81.240.65:15000/udp/233.233.233.39:12000
+http://92.36.202.5:10003/play/a017
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 #EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
