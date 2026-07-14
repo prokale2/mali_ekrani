@@ -66,7 +66,7 @@ http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS1.rs.png"; group-title="Srbija",Rts 1
 http://185.81.240.65:15000/udp/233.233.233.33:12000
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS2.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS2.rs.png"; group-title="Srbija",Rts 2
-https://de1.dstv.cx/RTS2HD/index.m3u8
+http://185.244.240.33:8000/play/a044
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:0 group-title="RS",PINK
