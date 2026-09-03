@@ -10,7 +10,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
-https://kinowatch.com/play/7iUBDLLtolbYkPjcH0aqvpiGpmpcVM12C7CVU33oJsI/.m3u8
+http://37.49.224.94:8008/sunshine/XkxtlyoyeqDnc74wXD_1tmHyn9I3iBjcgpOuYT_a9_6orZDf9eBpGT0f5sDam9kjJfPf9czjXGf_-duEV_aA9M8dyIze7cZFYoUu_5Bo1hXMKk2qWIzlSL2OYmqnTAs_gFWRXY1UCeuamdAm5QD2zXtB72VpsMitpOXg06jS6pcNsT5dh8FNJY_D3acbZOu_JclMfXZPsfkyQUMSCmrhGjghz2GuMvoWp2O-PeXkIevm99Hkv9AF2wFH61o3fV5f-wQzsN1Yy0zydXtMGEnJyuDz-bc4j9SlEVGXOTmEBY_Nbft2XXDuaMLBof22VbfD/hls/index.m3u8
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png"; group-title="Srbija",Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="OBN.rs" tvg-name="obn.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",OBN
