@@ -28,7 +28,7 @@ https://www.jagledam.com/k187/97bd5a6c75d3cf546ed6eac74ad81b1c
 #EXTINF:-1 tvg-id="HRT2.rs" tvg-name="HTV2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/239c1863d4a52a75f23270d06046a1b2.png"; group-title="Hrvatska",Hrt 2
 https://kinowatch.com/demo/stream/241fae2a9b491ee8a244b3.m3u8
 #EXTINF:-1 tvg-id="HRT3.bh" tvg-name="HTV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnrV--gn9fkgy_f_ZUZAHGlB_NrmlCD5x2w&s"; group-title="Hrvatska",Hrt 3
-http://143.244.62.109/hrt3/index.m3u8
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd?decryption_key=d488fe4024933f51a3eca4e5b325dfec:172f3c401d9343c4a74aed53d1fbcc05
 #EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
 http://92.36.202.5:10003/play/a021
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
