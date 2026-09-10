@@ -78,7 +78,7 @@ http://143.244.62.109/federalna/index.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 #EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
-http://srv1.adriatelekom.com/TVSlon/mono.m3u8
+https://live.rtvslon.ba/live/tv/index.m3u8
 
 
 
