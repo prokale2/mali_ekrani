@@ -4,7 +4,7 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="N1.rs",N1 Srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 tvg-id="BHT1.hr" tvg-name="BHT1" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/BHT1_BA_logo.png"; group-title="BOSNA",BHT1
-http://185.81.240.65:15000/udp/233.233.233.23:12000
+http://45.82.88.87:15153/udp/237.40.1.12:5000
 #EXTINF:-1 tvg-id="n1.info" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
@@ -24,11 +24,11 @@ https://kinowatch.com/demo/stream/3d15183bb3d90a4c6689f7.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_HR_logo_v2.png"; group-title="Hrvatska",Rtl Televizija
 http://23.88.66.93/RTL_Televizija/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.rs" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png"; group-title="Hrvatska",Hrt 1
-https://www.jagledam.com/k187/97bd5a6c75d3cf546ed6eac74ad81b1c
+http://45.82.88.87:15153/udp/237.40.1.7:5000
 #EXTINF:-1 tvg-id="HRT2.rs" tvg-name="HTV2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/239c1863d4a52a75f23270d06046a1b2.png"; group-title="Hrvatska",Hrt 2
-https://kinowatch.com/demo/stream/241fae2a9b491ee8a244b3.m3u8
+http://45.82.88.87:15153/udp/237.40.1.8:5000
 #EXTINF:-1 tvg-id="HRT3.bh" tvg-name="HTV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnrV--gn9fkgy_f_ZUZAHGlB_NrmlCD5x2w&s"; group-title="Hrvatska",Hrt 3
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd?decryption_key=d488fe4024933f51a3eca4e5b325dfec:172f3c401d9343c4a74aed53d1fbcc05
+http://45.82.88.87:15153/udp/237.40.1.9:5000
 #EXTINF:-1 tvg-id="HRT5.hr" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
 http://94.155.93.182:80/HRT_INT_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
