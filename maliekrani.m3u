@@ -64,11 +64,11 @@ https://kinowatch.com/demo/stream/102cbaaa1ba58f1b002b61.m3u8
 #EXTINF:-1 tvg-id="tv-duga-sat.music" tvg-name="tv-duga-sat.music" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png"; group-title="MUZICKI",Duga Tv 
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS1.rs.png"; group-title="Srbija",Rts 1
-https://kinowatch.com/demo/stream/6a1f2c12bd05ed638dc59b.m3u8
+http://79.101.50.1:10101/
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS2.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS2.rs.png"; group-title="Srbija",Rts 2
-https://kinowatch.com/demo/stream/5b94b67b5c591f0dcbedb2.m3u8
+http://79.101.50.1:10102/
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
-https://kinowatch.com/demo/stream/d970a7561028811b8c1733.m3u8
+http://79.101.50.1:10103
 #EXTINF:0 group-title="RS",PINK
 http://92.36.202.5:10003/play/a02j
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
