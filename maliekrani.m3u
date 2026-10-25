@@ -15,8 +15,8 @@ http://miniwan.kesug.com/test.php?i=1
 http://45.82.88.87:15153/udp/237.40.1.149:5000
 #EXTINF:-1 tvg-id="OBN.rs" tvg-name="obn.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",OBN
 http://23.88.66.93/OBN/index.m3u8
-#EXTINF:-1 tvg-id="RTVTK.ba" tvg-name="rtvtk.ba" tvg-logo="https://rtvtk.ba/wp-content/uploads/2021/07/LOGO-MOBILE.png"; group-title="Bosna",RTVTK
-http://srv1.adriatelekom.com/RTVTK/mono.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="rtvtk.ba" tvg-logo=""; group-title="Bosna",Arena Sport 1 SR
+http://oboprsp2.nexeraso.top/iptv/29Z3KWUBZFHKKS/31599/index.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
 http://45.82.88.87:15153/udp/237.40.1.21:5000
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTSZivot.rs" tvg-logo=""; group-title="Hrvatska",RTS Život
