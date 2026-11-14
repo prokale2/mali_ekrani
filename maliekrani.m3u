@@ -76,9 +76,9 @@ http://109.206.96.209/prva_72h/index.m3u8
 #EXTINF:-1 tvg-id="FTV.rs",FTV
 http://143.244.62.109/federalna/index.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
-http://185.81.240.65:15000/udp/233.233.233.28:12000
-#EXTINF:-1 tvg-id="RTVSlon.ba" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
-https://live.rtvslon.ba/live/tv/index.m3u8
+http://109.206.96.209/b92_72h/index.m3u8
+#EXTINF:-1 tvg-id="RTVSlon.rs" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
+http://5.175.174.49:1234/stream/maxtvhr/slonextra/master.m3u8
 
 
 
