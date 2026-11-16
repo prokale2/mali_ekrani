@@ -13,8 +13,8 @@ https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 http://miniwan.kesug.com/test.php?i=1
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png"; group-title="Srbija",Narodna TV
 http://45.82.88.87:15153/udp/237.40.1.149:5000
-#EXTINF:-1 tvg-id="OBN.rs" tvg-name="klasiktv.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",Klasik TV
-https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Klasiktv.rs" tvg-name="klasiktv.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",Klasik TV
+http://sultanios.alwaysdata.net/vavo.php?ID=888503192
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="rtvtk.ba" tvg-logo=""; group-title="Bosna",Arena Sport 1 SR
 http://oboprsp2.nexeraso.top/iptv/29Z3KWUBZFHKKS/31599/index.m3u8
 #EXTINF:-1 tvg-id="RTSSVET.rs" tvg-name="rts-sat.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_svet_logo.png"; group-title="Srbija",Rts Svet 
@@ -29,8 +29,8 @@ http://iptvgo.cc:80/De123/De123/852104
 http://iptvgo.cc:80/De123/De123/852097
 #EXTINF:-1 tvg-id="HRT3.bh" tvg-name="HTV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnrV--gn9fkgy_f_ZUZAHGlB_NrmlCD5x2w&s"; group-title="Hrvatska",Hrt 3
 http://45.82.88.87:15153/udp/237.40.1.9:5000
-#EXTINF:-1 tvg-id="HRT5.rs" tvg-name="htv5.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
-http://5.175.174.49:1234/stream/maxtvhr/hrtint/master.m3u8
+#EXTINF:-1 tvg-id="HRT5.rs" tvg-name="htv5.hr" tvg-logo="https://tvprofil.com/img/kanali-logo/HRTInt_HR_logo.png?1736931148"; group-title="Hrvatska",Hrt Int
+http://sultanios.alwaysdata.net/vavo.php?ID=2758437799
 #EXTINF:-1 tvg-id="SUPER" tvg-name="TV" tvg-logo="http://live.nettv.pro/icons/supertvmedia.png"; group-title="BOSNA",Super Tv
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba",Televizija 5 
