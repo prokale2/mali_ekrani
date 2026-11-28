@@ -10,7 +10,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 #EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
-http://miniwan.kesug.com/test.php?i=1
+http://109.206.96.209/pink_72h/index.m3u8
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV.rs" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Narodna_TV_RS_logo.png"; group-title="Srbija",Narodna TV
 http://45.82.88.87:15153/udp/237.40.1.149:5000
 #EXTINF:-1 tvg-id="bnmusic.rs" tvg-name="bnmusic.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/OBN_BA_logo.png?1736255901"; group-title="Bosna",BN Music
@@ -63,11 +63,11 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 http://sultanios.alwaysdata.net/vavo.php?ID=506589367
 #EXTINF:-1 tvg-id="tv-duga-sat.music" tvg-name="tv-duga-sat.music" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png"; group-title="MUZICKI",Duga Tv 
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS1.rs.png"; group-title="Srbija",Rts 1
-http://79.101.50.1:10101/
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS2.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS2.rs.png"; group-title="Srbija",Rts 2
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_RS_logo.png?1736256806"; group-title="Srbija",Rts 1
+http://109.206.96.209/rts1_72h/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS2.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_RS_logo.png"; group-title="Srbija",Rts 2
 http://79.101.50.1:10102/
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://iptv-epg.org/logos/Serbia/RTS3.rs.png"; group-title="Srbija",Rts 3
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS3_RS_logo.png"; group-title="Srbija",Rts 3
 http://79.101.50.1:10103
 #EXTINF:0 group-title="RS",PINK Plus
 http://5.57.74.130:8000/play/a0di/index.m3u8
