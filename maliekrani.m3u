@@ -7,7 +7,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1s
 http://5.175.174.49:1234/stream/maxtvhr/bht1/master.m3u8
 #EXTINF:-1 tvg-id="n1.info" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/n1-logo.png"; group-title="BOSNA",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-id="BN.rs" tvg-name="rtvbn.tv" tvg-logo="http://phazer.info/img/kanali/bn.jpg"; group-title="BOSNA",BN TV
+#EXTINF:-1 tvg-id="bn.ba" tvg-name="rtvbn.tv" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_BA_logo.jpg"; group-title="BOSNA",BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-id="TVPink.rs" tvg-name="TVPink.rs" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/PINK_RS_logo.png"; group-title="Srbija",PINK 
 http://109.206.96.209/pink_72h/index.m3u8
@@ -65,7 +65,7 @@ http://sultanios.alwaysdata.net/vavo.php?ID=506589367
 http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS1" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_RS_logo.png?1736256806"; group-title="Srbija",Rts 1
 http://109.206.96.209/rts1_72h/index.m3u8
-#EXTINF:-1 tvg-id="RTS2.sr" tvg-name="RTS2.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_RS_logo.png"; group-title="Srbija",Rts 2
+#EXTINF:-1 tvg-id="rts2.sr" tvg-name="rts2.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_RS_logo.png"; group-title="Srbija",Rts 2
 http://79.101.50.1:10102/
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS3_RS_logo.png"; group-title="Srbija",Rts 3
 http://79.101.50.1:10103
@@ -77,9 +77,8 @@ http://109.206.96.209/prva_72h/index.m3u8
 http://143.244.62.109/federalna/index.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://109.206.96.209/b92_72h/index.m3u8
-#EXTINF:-1 tvg-id="PinkM.rs" tvg-name="PinkM" tvg-logo=""; group-title="Bosna",Pink M
-https:\/\/dh1d0x4vhplnwwy.fu8oefd4v2dvlmaarur6crfp.com\/sunshine\/wXxbqWZCiuDKPA8D2-x9v85K3F1j6Izng3sBb_hI9WSXZmx6MKXfpqcFiEmiaV8AnPSRXCWvq4rkteIfvNUFb8nmgSMSwKc6gnGzDrRZ0OkYBCtJk18ZcfkseimNN6n02SWvZiiAYlBqdFaAhAAg6o27RSjHN9XWauFbElpbzIbaaPYQnIi6oYYJUX6VOt8okyW7FoyDUkjQDvU8qBb0YzdR7AfC3ufsB2ZjbRMK4dqIf0oiDQ5LC4WvOxxYftjS\/hls\/index.m3u8
-
+#EXTINF:-1 tvg-id="happytv.sr" tvg-name="happytv.sr" tvg-logo="https://tvprofil.com/img/kanali-logo/HappyTV_RS_logo.png"; group-title="Srbija",Happy TV
+http://109.206.96.209/happy_72h/index.m3u8
 
 
 
