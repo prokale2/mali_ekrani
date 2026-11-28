@@ -70,15 +70,15 @@ http://79.101.50.1:10102/
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS3.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS3_RS_logo.png"; group-title="Srbija",Rts 3
 http://79.101.50.1:10103
 #EXTINF:0 group-title="RS",PINK Plus
-http://5.57.74.130:8000/play/a0di/index.m3u8
+https://dh1d0x4vhplnwwy.fu8oefd4v2dvlmaarur6crfp.com/sunshine/C-yUEF3t09mGA3RmuTC5M_bs11Ymk6RwgtN-rqK013VBpL04svkoqKTZ-booOWOTs15GRHw-gZy6Sqvadg66AG7JcYz7OKHC9UNiyDFpBQ2JXbiLZuTHXdLwC74EcZOsmyx3oa8Rj4u_28mjGSRGr6MjNhlVxgLzTUrqQvVpFaMg9lz5px6StoqafghTOPoZJXsXJxD2thhrH4u6_gLY-w_agzZ5cI0b2chW49LIQya50ld6PF5JU-lOPKtRJRh5/hls/index.m3u8
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva.rs" tvg-logo="https://tvprofil.com/img/kanali-logo/Prva_RS_logo_v2.png?1736867131"; group-title="Srbija",Prva
 http://109.206.96.209/prva_72h/index.m3u8
 #EXTINF:-1 tvg-id="FTV.rs",FTV
 http://143.244.62.109/federalna/index.m3u8
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92.ba" tvg-logo="https://tvprofil.com/img/kanali-logo/B92_RS_logo_v2.png?1736852130"; group-title="Srbija",B92
 http://109.206.96.209/b92_72h/index.m3u8
-#EXTINF:-1 tvg-id="RTVSlon.rs" tvg-name="rtv-slon.ba" tvg-logo=""; group-title="Bosna",Slon RTV
-http://5.175.174.49:1234/stream/maxtvhr/slonextra/master.m3u8
+#EXTINF:-1 tvg-id="PinkM.rs" tvg-name="PinkM" tvg-logo=""; group-title="Bosna",Pink M
+https:\/\/dh1d0x4vhplnwwy.fu8oefd4v2dvlmaarur6crfp.com\/sunshine\/wXxbqWZCiuDKPA8D2-x9v85K3F1j6Izng3sBb_hI9WSXZmx6MKXfpqcFiEmiaV8AnPSRXCWvq4rkteIfvNUFb8nmgSMSwKc6gnGzDrRZ0OkYBCtJk18ZcfkseimNN6n02SWvZiiAYlBqdFaAhAAg6o27RSjHN9XWauFbElpbzIbaaPYQnIi6oYYJUX6VOt8okyW7FoyDUkjQDvU8qBb0YzdR7AfC3ufsB2ZjbRMK4dqIf0oiDQ5LC4WvOxxYftjS\/hls\/index.m3u8
 
 
 
